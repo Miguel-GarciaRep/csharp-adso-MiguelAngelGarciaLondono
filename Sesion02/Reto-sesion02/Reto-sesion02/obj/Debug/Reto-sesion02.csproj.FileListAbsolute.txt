@@ -1,0 +1,7 @@
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Reto-sesion02\Reto-sesion02\bin\Debug\Reto-sesion02.exe.config
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Reto-sesion02\Reto-sesion02\bin\Debug\Reto-sesion02.exe
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Reto-sesion02\Reto-sesion02\bin\Debug\Reto-sesion02.pdb
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Reto-sesion02\Reto-sesion02\obj\Debug\Reto-sesion02.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Reto-sesion02\Reto-sesion02\obj\Debug\Reto-sesion02.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Reto-sesion02\Reto-sesion02\obj\Debug\Reto-sesion02.exe
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Reto-sesion02\Reto-sesion02\obj\Debug\Reto-sesion02.pdb
