@@ -1,0 +1,7 @@
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Tarea\Tarea\obj\Debug\Tarea.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Tarea\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\migue\Documents\csharp-adso-MiguelAngelGarciaLondono\Sesion02\Tarea\Tarea\obj\Debug\Tarea.pdb
