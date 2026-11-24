@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <OutputType>WinExe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Inventario.Modelos\Inventario.Modelos.csproj" />
+    <ProjectReference Include="..\Inventario.Datos\Inventario.Datos.csproj" />
+    <ProjectReference Include="..\Inventario.Servicios\Inventario.Servicios.csproj" />
+  </ItemGroup>
+
+</Project>
